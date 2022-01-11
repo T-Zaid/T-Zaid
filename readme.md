@@ -37,6 +37,8 @@ A *successor* to our Semester 2 Cafe System Project. The Cybernet/eSports Café 
 #### 7. [Fortuna Algorithms Design](https://github.com/T-Zaid/Algorithms-Design)
 This project was dedicated for the subject of Design and Analysis of Algorithms. This project challenged us to go through different stages of file reading from a text where a certain complex patterns are getting followed and a tree (binary trees etc) is getting created out of the file with an in-built plotter. This is not the end, it was just the first step, one can use different algorithm on the created trees (such as Dijkstra, Boruvka's and many more..) Check it out in detail by clicking the heading.
 
+---
+
 ## Tiger CodeVerse 🖥️ Infrastructure:
 These are all of the tools and technologies that I've acquainted myself in my journey
 
@@ -52,5 +54,7 @@ These are all of the tools and technologies that I've acquainted myself in my jo
 <img align="left" alt="Terminal" width="26px" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" />
 
 <br />
+
+---
 
 <br />
