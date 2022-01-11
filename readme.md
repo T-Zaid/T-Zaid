@@ -9,7 +9,6 @@ the "T" is for **Tiger**, my IGN, irrelevant, anyways, a quick overview about my
 - 🕹️ Driven student who has an undying interest and enthusiast in Web Dev, Game Dev and 3d engines platforms.
 - 🚩 Consider myself a problem solver and logic builder, no matter the language paradigm.
 
-<br />
 ---
 
 ## Welcome to Tiger CodeVerse
