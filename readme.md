@@ -10,11 +10,10 @@ the "T" is for **Tiger**, my IGN, irrelevant, anyways, a quick overview about my
 - 🚩 Consider myself a problem solver and logic builder, no matter the language paradigm.
 
 <br />
+---
 
 ## Welcome to Tiger CodeVerse
 where I enlist all of the projects that I've made in University to keep track and tabs about the progress that I have achieved throughout the years of my student life. Click the **heading** of a project to see in-depth details
-
----
 
 #### 1. [Text-Based Adventure Game](https://github.com/deijiokzen/Semester-1-Game-with-Arrays)
 A text-based adventure/puzzle game that challenges the player with puzzles and mini-games, containing visuals, sounds, and a basic story. The play area is displayed through 2-Dimentional array, so the player's position is also saved in that array in the Bridges/Hallways Puzzle. This is done through functions which read files through file pointers and print the characters in the file when the point threshold is low/high enough.
