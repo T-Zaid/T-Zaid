@@ -55,6 +55,8 @@ These are all of the tools and technologies that I've acquainted myself in my jo
 
 ---
 
+## T_Zaid Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-Zaid&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
