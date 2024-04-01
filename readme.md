@@ -4,9 +4,9 @@ the "T" is for **Tiger**, my IGN, irrelevant, anyways, a quick overview about my
 
 ## I am a Student, developer, and digital writer !!
 
-- 🎓 I'm a student at Fast NUCES Karachi, Pakistan. Currently leveraging studies in BS Computer Sciences.
+- 🎓 I studied from Fast NUCES Karachi, Pakistan. Completed my bachelors in BS Computer Sciences.
 - 🌟 Believe in Language agnosticism, and a keen learner for new frameworks.
-- 🕹️ Driven student who has an undying interest and enthusiast in Web Dev, Game Dev and 3d engines platforms.
+- 🕹️ Driven student who has an undying interest and enthusiast in Web Application Development, Game Dev and 3d engines platforms.
 - 🚩 Consider myself a problem solver and logic builder, no matter the language paradigm.
 
 ---
